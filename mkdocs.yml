@@ -1,0 +1,13 @@
+site_name: S(i)PIN Radiation Detector
+site_url: https://spin-rd.com/docs
+docs_dir: content
+site_dir: build
+repo_url: https://github.com/SPIN-RD/
+repo_name: spin-rd/docs
+
+nav:
+  - Home: 'index.md'
+  - 'Tutorials':
+    - 'First Tutorial': 'tutorials/first_tutorial.md'
+    - 'Second Tutorial': 'tutorials/second_tutorial.md'
+  - About: 'about.md'
