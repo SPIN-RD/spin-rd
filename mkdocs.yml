@@ -2,10 +2,12 @@ site_name: S(i)PIN Radiation Detector
 site_url: https://spin-rd.com/docs
 docs_dir: content
 site_dir: build
-repo_url: https://github.com/SPIN-RD/
-repo_name: spin-rd/docs
+repo_url: https://github.com/lewis206/spin-rd
+repo_name: lewis206/spin-rd
 theme:
   name: material
+  font:
+    text: DM Sans
 
 nav:
   - Home: 'index.md'
