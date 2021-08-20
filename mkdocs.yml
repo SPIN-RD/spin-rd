@@ -4,6 +4,8 @@ docs_dir: content
 site_dir: build
 repo_url: https://github.com/SPIN-RD/
 repo_name: spin-rd/docs
+theme:
+  name: material
 
 nav:
   - Home: 'index.md'
