@@ -4,6 +4,7 @@ docs_dir: content
 site_dir: build
 repo_url: https://github.com/lewis206/spin-rd
 repo_name: lewis206/spin-rd
+edit_uri: ""
 theme:
   name: material
   font:
