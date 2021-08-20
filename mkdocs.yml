@@ -15,4 +15,8 @@ nav:
   - 'Tutorials':
     - 'First Tutorial': 'tutorials/first_tutorial.md'
     - 'Second Tutorial': 'tutorials/second_tutorial.md'
+  - 'Plots': 'plots.ipynb'
   - About: 'about.md'
+
+plugins:
+  - mknotebooks
