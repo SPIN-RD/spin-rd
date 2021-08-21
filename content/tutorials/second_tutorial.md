@@ -40,7 +40,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>1</td>
   <td>&nbsp;</td>
  </tr>
-  <tr bgcolor="tomato">
+  <tr bgcolor="DodgerBlue">
   <td colspan="3"tomao> <div align="center">Components<div></td>
  </tr>
  <tr>
