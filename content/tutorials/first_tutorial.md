@@ -1,6 +1,3 @@
----
-useMath: true
----
 # Particle Accelerators and Detectors
 
 What is the first thing that comes to mind when you think of a particle accelerator? For most people, the primary connotation with the phrase “particle accelerator” is CERN’s Large Hadron Collider (LHC). However, few people know that the principle of particle accelerators was also widely used in TV monitors and old computers. Even though these linear particle accelerators in our everyday lives are much smaller in size and weaker than LHC, they utilise the same physics principles. So how do they work?
@@ -8,7 +5,7 @@ What is the first thing that comes to mind when you think of a particle accelera
 
 ### Understanding how Particle Accelerators and Detectors work
 
-Particle accelerators are scientific instruments based on the following principle: **colliding particles at high energies leads to the creation of new particles**. This is a direct consequence of Einstein’s famous mass-energy relation $E=mc^2$, where the energy of the collision particles is converted to the mass-energy of the new particles. In order to achieve such high energies, accelerators use electric fields to accelerate fundamental particles, such as protons and electrons.
+Particle accelerators are scientific instruments based on the following principle: **colliding particles at high energies leads to the creation of new particles**. This is a direct consequence of Einstein’s famous mass-energy relation E=mc<sup>2, where the energy of the collision particles is converted to the mass-energy of the new particles. In order to achieve such high energies, accelerators use electric fields to accelerate fundamental particles, such as protons and electrons.
 
 One type of particle accelerator is a linear particle accelerator (linac). As the name suggests, this type accelerates particles in a straight line.
 ![Figure 1](https://user-images.githubusercontent.com/89271138/130323966-aacbe0ae-9e72-4c5b-873f-825956399e72.png)
