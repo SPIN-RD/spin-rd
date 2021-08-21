@@ -13,14 +13,10 @@ As Figure 1 shows, the acceleration electrodes are connected to an alternating s
 
 Once the particles reach the target, it is time for the detector to shine! The purpose of the detector is to accurately record the collision data that are later processed and analysed, sometimes leading to major discoveries like the Higgs Boson in 2012. Typically, a detector has many components each tasked with a specific measurement related to a different aspect of the collision. For example, a given subdetector is usually designated to measure photons and another is tasked with measuring muons (the heavier cousin of the electron). Adding to the listi energy deposition, charge, momentum and curvature measurements, you can easily end up with a six or seven-layer detector.
 
+
+<iframe class="iframe" frameborder="0" onload="resizeIframe(this)" src="../../interactive"></iframe>
+
 Ready to make your own radiation measurements and learn how to analyse data?
 Hop onto the next tutorial to get a list of all the equipment you will need!
 
 For any suggestions or questions please contact us at *spin-rd.support@gmail.com*
-
-
-
-
-
-
-<iframe class="iframe" frameborder="0" onload="resizeIframe(this)" src="../../interactive"></iframe>
