@@ -5,7 +5,7 @@ What is the first thing that comes to mind when you think of a particle accelera
 
 ### Understanding how Particle Accelerators and Detectors work
 
-Particle accelerators are scientific instruments based on the following principle: **colliding particles at high energies leads to the creation of new particles**. This is a direct consequence of Einstein’s famous mass-energy relation E=mc<sup>2, where the energy of the collision particles is converted to the mass-energy of the new particles. In order to achieve such high energies, accelerators use electric fields to accelerate fundamental particles, such as protons and electrons.
+Particle accelerators are scientific instruments based on the following principle: **colliding particles at high energies leads to the creation of new particles**. This is a direct consequence of Einstein’s famous mass-energy relation E=mc<sup>2 , where the energy of the collision particles is converted to the mass-energy of the new particles. In order to achieve such high energies, accelerators use electric fields to accelerate fundamental particles, such as protons and electrons.
 
 One type of particle accelerator is a linear particle accelerator (linac). As the name suggests, this type accelerates particles in a straight line.
 ![Figure 1](https://user-images.githubusercontent.com/89271138/130323966-aacbe0ae-9e72-4c5b-873f-825956399e72.png)
