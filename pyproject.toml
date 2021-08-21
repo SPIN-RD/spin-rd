@@ -9,9 +9,6 @@ python = ">=3.8,<3.10"
 mkdocs = "^1.2.2"
 mkdocs-material = "^7.2.4"
 mknotebooks = "^0.7.0"
-numpy = ">=1.19.2,<1.20.0"
-matplotlib = "^3.4.3"
-zfit = "^0.7.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
