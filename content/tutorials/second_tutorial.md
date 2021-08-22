@@ -144,7 +144,7 @@ You probably already know how batteries, capacitors, resistors and inductors wor
 An operational amplifier (often abbreviated as op amp) is a DC-coupled electronic component that amplifies the difference between the input signals by subjecting it to mathematical operations such as addition, subtraction, or more complex operations. It is very versatile and is therefore often used in integrated circuits.
 The structure of an operational amplifier is schematically shown in Figure 2. The supply voltage is usually symmetric, i. e. if the positive power supply is +15V, the negative power supply is -15V. It has two input pins, of which one inverts the signal (-) and the other doesn’t (+), and one output pin.
 <div align="center">
-![Figure 2](https://user-images.githubusercontent.com/89271138/130354940-8aa9f526-d986-4a4d-8b6a-966ed5f29628.png)
+<img src = "https://user-images.githubusercontent.com/89271138/130354940-8aa9f526-d986-4a4d-8b6a-966ed5f29628.png">
  </div>
 Depending on the type, the operational amplifier attributes can become very complicated and require further explanation, the aim is therefore for you to understand the basic operation mode of an op amp. First of all, the difference between the two input signals is defined as U<sub>D</sub>=U<sub>+</sub> - U<sub>-</sub>. The amplification level of the differential voltage is determined by the amplification factor V<sub>D</sub>, which is dependent on the internal structure of the op amp. An ideal op amp would have an infinite amplification, whereas today’s op amps reach values of several hundred thousands. The output signal is now given by U<sub>A</sub>=V<sub>D</sub> <span>&#215;</span> U<sub>D</sub>.
 
