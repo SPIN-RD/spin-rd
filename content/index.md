@@ -1,3 +1,15 @@
-# First headline
+# SPIN-RD 
 
-Some text as test and some more text
+This project originates from the CERN Webfest 2021.
+We are 
+
+* Irene Andreau
+* Lukas Van Mol
+* Jean Yves Beaucamp
+* Irene Andreou
+* Muhammad Aditya Hilmy 
+* Jan Peter Herdieckerhoff 
+* Nadia Leal Reyes
+* Olivia Reinicke
+* Jan Willeke
+* Janna Zoe Vischer

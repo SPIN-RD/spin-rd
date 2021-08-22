@@ -11,18 +11,6 @@ theme:
     text: DM Sans
 
 nav:
-  - Home: "index.md"
   - "Tutorials":
-      - "First Tutorial": "tutorials/first_tutorial.md"
-      - "Second Tutorial": "tutorials/second_tutorial.md"
-  - "Plots": "plots.ipynb"
-  - About: "about.md"
-
-plugins:
-  - mknotebooks
-
-extra_css:
-  - stylesheets/interactive.css
-
-extra_javascript:
-  - javascripts/extra.js
+      - "Particle Accelerators and Detectors": "tutorials/first_tutorial.md"
+      - "Required Parts": "tutorials/second_tutorial.md"
