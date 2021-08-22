@@ -49,19 +49,22 @@ Before starting your journey to build your very own particle detector, you need 
  <tr>
   <td>10 pF</td>
   <td>2</td>
-  <td rowspan="4">&nbsp;</td>
+  <td>&nbsp;</td>
  </tr>
  <tr>
   <td>100 pF</td>
   <td>1</td>
+  <td>&nbsp;</td>
  </tr>
  <tr>
   <td>100 nF</td>
   <td>7</td>
+  <td>&nbsp;</td>
  </tr>
  <tr>
   <td>47 μF</td>
   <td>2</td>
+  <td>&nbsp;</td>
  </tr>
  <tr>
   <td colspan="3"> Resistors</td>
