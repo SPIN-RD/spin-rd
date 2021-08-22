@@ -4,7 +4,6 @@ Before starting your journey to build your very own particle detector, you need 
 
 
 <div align="center">
-  
 <table>
  <tr>
   <td>Part</td>
@@ -12,6 +11,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>Image</td>
  </tr>
  <tr>
+  <tr bgcolor="DodgerBlue">
   <td colspan="3"> <div align="center">General Parts<div></td>
  </tr>
  <tr>
@@ -44,7 +44,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td colspan="3"tomao> <div align="center">Components<div></td>
  </tr>
  <tr>
-  <td colspan="3"> Capacitors</td>
+ <td colspan="3"> <b>Capacitors</b></td>
  </tr>
  <tr>
   <td>10 pF</td>
@@ -67,7 +67,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td colspan="3"> Resistors</td>
+  <td colspan="3"> <b>Resistors</b></td>
  </tr>
  <tr>
   <td>47 Ω</td>
@@ -110,7 +110,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td colspan="3"> Inductors</td>
+  <td colspan="3"> <b>Inductors</b></td>
  </tr>
  <tr>
   <td>1 mH</td>
@@ -118,7 +118,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td colspan="3"> Diodes</td>
+   <td colspan="3"> <b>Diodes</b></td>
  </tr>
  <tr>
   <td>BPW 34</td>
@@ -126,7 +126,7 @@ Before starting your journey to build your very own particle detector, you need 
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td colspan="3"> Operational Amplifier</td>
+  <td colspan="3"> <b>Operational Amplifier</b></td>
  </tr>
  <tr>
   <td>TL072</td>
