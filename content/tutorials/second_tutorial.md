@@ -141,4 +141,4 @@ Before starting your journey to build your very own particle detector, you need 
 Have you crossed everything off the list?
 Go on to the next tutorial to finally start building your detector!
 
-For any suggestions or questions regarding the list of components please contact us at <spin-rd.support@gmail.com>.
+For any suggestions or questions regarding the list of components please contact us at  <spin-rd.support@gmail.com>.
