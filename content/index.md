@@ -1,9 +1,8 @@
 # SPIN-RD 
 
 This project originates from the CERN Webfest 2021.
-We are 
+We are: 
 
-* Irene Andreau
 * Lukas Van Mol
 * Jean Yves Beaucamp
 * Irene Andreou
