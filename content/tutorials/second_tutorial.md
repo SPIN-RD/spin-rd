@@ -1,6 +1,6 @@
 # Required Parts
 
-Before starting your journey to build your very own particle detector, you need to equip yourself with some necessary equipemnt. Below you can find a list of the components required to build your particle detector. Our team conducted extensive research on the market to select the best but yet most affordable components for constructing the detector with a low overall approximate cost. 
+Before starting your journey to build your very own particle detector, you need to equip yourself with some necessary equipment. Below you can find a list of the components required to build your particle detector. Our team conducted extensive research on the market to select the best but yet most affordable components for constructing the detector with a low overall approximate cost. 
 
 
 <div align="center">
