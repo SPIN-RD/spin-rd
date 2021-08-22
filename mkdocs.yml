@@ -10,7 +10,16 @@ theme:
   font:
     text: DM Sans
 
+extra_css:
+  - https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css
+
+extra_javascript:
+  - https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+  - https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js
+  - javascripts/slideshow.js
+
 nav:
   - "Tutorials":
       - "Particle Accelerators and Detectors": "tutorials/first_tutorial.md"
       - "Required Parts": "tutorials/second_tutorial.md"
+  - "Carousel Test": "slideshow.md"
