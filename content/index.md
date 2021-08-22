@@ -3,7 +3,7 @@
 This project originates from the CERN Webfest 2021.
 We are: 
 
-* Lukas Van Mol
+* Lucas Van Mol
 * Jean Yves Beaucamp
 * Irene Andreou
 * Muhammad Aditya Hilmy 
